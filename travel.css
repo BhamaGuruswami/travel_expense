@@ -1,0 +1,43 @@
+
+body{
+    background-color:lightcyan ;
+     font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: lightslategray;
+  }
+  .topnav a.split {
+    float: right;
+    background-color: lightseagreen;
+    color: white;
+  }
+  
+#box
+{
+     background-color: lightblue; 
+    width:500px;
+    height:300px;
+    margin:0px auto;
+    border:2px solid rgb(223, 56, 56);
+    box-shadow: 10px 10px;
+
+}
+h2{
+    text-align: center;
+    color: deepskyblue;
+}
+table{
+    margin:0px auto;
+}
