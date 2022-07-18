@@ -69,6 +69,8 @@ integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52n
 
 </div>
 <?php
+require('vendor/autoload.php');
+
  if(isset($_POST['submit'])){
 	
 $amount = $_POST['amount'];
